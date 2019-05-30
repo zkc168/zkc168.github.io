@@ -1,0 +1,1 @@
+webpackJsonp([0],{468:function(t,e){t.exports={content:["article",["h2","commontech"],["ul",["li",["p",".................."]]]],meta:{title:"commontech",publishDate:"2018-12-06T00:00:00.000Z",abstract:"commontech",filename:"posts/\u901a\u8baf\u534f\u8bae/protubuf/example.md"}}}});

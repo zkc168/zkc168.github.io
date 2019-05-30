@@ -1,0 +1,1 @@
+webpackJsonp([8],{460:function(e,t){e.exports={content:["article",["h2","weixin"],["ul",["li",["p",".................."]]]],meta:{title:"weixin",publishDate:"2018-12-06T00:00:00.000Z",abstract:"weixin",filename:"posts/python/Flask/example.md"}}}});
